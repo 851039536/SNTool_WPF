@@ -1,0 +1,30 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SNTool.win"
+      xmlns:hc="https://handyorg.github.io/handycontrol" x:Class="SNTool.win.FileIntegrityChecker"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="850"
+      Title="FileIntegrityChecker">
+
+    <Grid>
+
+        <hc:SimplePanel Margin="10,2,10,292">
+            <Button Content="选择" Margin="724,43,0,0" Height="28" Width="48" VerticalAlignment="Top" HorizontalAlignment="Left" Click="Button_Click_1"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="计算文件的MD5哈希值：" VerticalAlignment="Top" Margin="11,19,0,0" Height="17" Width="124"/>
+            <hc:TextBox Name="TFile2" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="9,42,0,0" Width="463"/>
+            <Button Click="Button_Click" Content="校验" Margin="776,43,0,0" Height="28" Width="48" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+
+            <hc:TextBox HorizontalAlignment="Left" Name="TFile" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="11,103,0,0" Width="461"/>
+            <Button Content="选择" Margin="724,103,0,0" Height="28" Width="48" VerticalAlignment="Top" HorizontalAlignment="Left" Click="Button_Click_2"/>
+            <Button  Content="校验" Margin="776,103,0,0" Height="28" Width="48" VerticalAlignment="Top" HorizontalAlignment="Left" Click="Button_Click_3"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="校验文件的完整性：" VerticalAlignment="Top" Margin="11,80,0,0" Height="17" Width="124"/>
+            <hc:TextBox Name="TFileMd5" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="477,103,0,0" Width="242"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="比对MD5的哈希值：" VerticalAlignment="Top" Margin="479,80,0,0" Height="17" Width="124"/>
+            <hc:TextBox x:Name="TFileMd55" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="477,43,0,0" Width="242"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="生成MD5的哈希值：" VerticalAlignment="Top" Margin="479,20,0,0" Height="17" Width="124"/>
+        </hc:SimplePanel>
+    </Grid>
+</Page>

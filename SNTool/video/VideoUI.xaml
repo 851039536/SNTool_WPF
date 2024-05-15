@@ -1,0 +1,62 @@
+﻿<Page x:Class="SNTool.video.VideoUI"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SNTool.video" xmlns:hc="https://handyorg.github.io/handycontrol"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page1">
+
+
+
+    <Grid>
+
+        <StackPanel>
+            <Border Background="Black" BorderThickness="3" HorizontalAlignment="Center" Height="300"  VerticalAlignment="Top" Width="500">
+                <Border.Effect>
+                    <DropShadowEffect Color="#FFE4CC8D"/>
+                </Border.Effect>
+                <Border.BorderBrush>
+                    <LinearGradientBrush StartPoint="1,0" EndPoint="1,1">
+                        <GradientStop Offset="0" Color="White"/>
+                        <GradientStop Offset="0.5" Color="Gold"/>
+                    </LinearGradientBrush>
+                </Border.BorderBrush>
+                <MediaElement Name="me"  LoadedBehavior="Manual"  SpeedRatio="1" Stretch="Fill" UnloadedBehavior="Stop" ScrubbingEnabled="True" Volume="{Binding ElementName=volumeSlider,Path=Value}" Balance="0.6" MouseLeftButtonDown="Me_MouseLeftButtonDown" MediaOpened="Me_MediaOpened" MediaEnded="Me_MediaEnded"  />
+            </Border>
+            <StackPanel Margin="0,10,0,0" Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Text="播放进度" Foreground="Gold" Margin="5"/>
+                <Slider x:Name="posSlider" Minimum="0"   Width="190" Value="{Binding ElementName=me,Path=Position}" IsMoveToPointEnabled="True"  PreviewMouseLeftButtonUp="PosSlider_PreviewMouseLeftButtonUp"   />
+                <TextBlock Text="音量" Foreground="Gold" Margin="20,0,0,0"/>
+                <Slider x:Name="volumeSlider" Margin="10,0" Minimum="0" Maximum="1" Value="0.5" Width="167" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal"  HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,7">
+                <Button x:Name="openBtn" Content="打开"   Click="OpenBtn_Click" 
+              />
+                <Button x:Name="playBtn" Content="播放" Click="PlayBtn_Click" 
+                />
+                <Button x:Name="stopBtn" Content="停止" Click="StopBtn_Click" 
+               />
+                <Button x:Name="backBtn" Content="快退"   Click="BackBtn_Click"
+              />
+                <Button x:Name="forwardBtn" Content="快进"  Click="ForwardBtn_Click" 
+              />
+                <Label Name="lblTime" Width="78" Height="30" Content="00:04"></Label>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" >
+                <Button x:Name="openBtn1" Content="前定位"   Click="OpenBtn_Click" 
+              />
+                <Button x:Name="playBtn1" Content="后定位" Click="PlayBtn_Click" 
+                />
+
+                <Label x:Name="lblTime1" Width="78" Height="30" Content="00:01"/>
+                <Label x:Name="lblTime2" Width="78" Height="30" Content="00:02"/>
+            </StackPanel>
+
+
+
+        </StackPanel>
+    </Grid>
+</Page>

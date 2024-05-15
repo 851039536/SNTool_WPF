@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "suKKmI92eCY=",
+  "success": true,
+  "projectFilePath": "D:\\sw\\wpf\\SNTool\\SNTool\\SNTool.csproj",
+  "expectedPackageFiles": [
+    "D:\\Nuget\\.nuget\\packages\\handycontrol\\3.5.1\\handycontrol.3.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
