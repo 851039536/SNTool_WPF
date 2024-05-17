@@ -10,12 +10,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FFMpegCore" Version="5.1.0" />
     <PackageReference Include="HandyControl" Version="3.5.1" />
   </ItemGroup>
 
   <ItemGroup>
     <Reference Include="MechTE_480_Merge">
       <HintPath>..\..\..\class_library\MechTE\MechTE_480\bin\Debug\MechTE_480_Merge.dll</HintPath>
+    </Reference>
+    <Reference Include="MVideo">
+      <HintPath>..\..\..\class_library\MechTE\MVideoCore\bin\Debug\net8.0\MVideoCore.dll</HintPath>
     </Reference>
   </ItemGroup>
 

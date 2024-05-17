@@ -27,3 +27,7 @@ D:\sw\wpf\SNTool\SNTool\obj\Debug\net8.0-windows\video\VideoUI.baml
 D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\MechTE_480_Merge.dll
 D:\sw\wpf\SNTool\SNTool\obj\Debug\net8.0-windows\win\FileIntegrityChecker.g.cs
 D:\sw\wpf\SNTool\SNTool\obj\Debug\net8.0-windows\win\FileIntegrityChecker.baml
+D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\MVideoCore.dll
+D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\MVideoCore.pdb
+D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\FFMpegCore.dll
+D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\Instances.dll

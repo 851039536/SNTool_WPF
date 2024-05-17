@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "suKKmI92eCY=",
+  "dgSpecHash": "dS73AZvgZJ8=",
   "success": true,
   "projectFilePath": "D:\\sw\\wpf\\SNTool\\SNTool\\SNTool.csproj",
   "expectedPackageFiles": [
-    "D:\\Nuget\\.nuget\\packages\\handycontrol\\3.5.1\\handycontrol.3.5.1.nupkg.sha512"
+    "D:\\Nuget\\.nuget\\packages\\ffmpegcore\\5.1.0\\ffmpegcore.5.1.0.nupkg.sha512",
+    "D:\\Nuget\\.nuget\\packages\\handycontrol\\3.5.1\\handycontrol.3.5.1.nupkg.sha512",
+    "D:\\Nuget\\.nuget\\packages\\instances\\3.0.0\\instances.3.0.0.nupkg.sha512",
+    "D:\\Nuget\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "D:\\Nuget\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }

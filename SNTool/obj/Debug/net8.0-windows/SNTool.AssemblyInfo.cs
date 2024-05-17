@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SNTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9c5008a63b34e575ce42a45e46f0709d676a9c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SNTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SNTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

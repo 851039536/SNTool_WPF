@@ -11,9 +11,26 @@
 
 
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <!-- 左侧固定宽度 -->
+            <ColumnDefinition Width="*"/>
+            <!-- 剩余空间 -->
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <!-- 整个窗口高度 -->
+        </Grid.RowDefinitions>
 
-        <StackPanel>
-            <Border Background="Black" BorderThickness="3" HorizontalAlignment="Center" Height="300"  VerticalAlignment="Top" Width="500">
+        <StackPanel Grid.Row="0" Grid.Column="0" VerticalAlignment="Center">
+            <Button Width="150" Content="清空数据" Click="DelVideo"></Button>
+            <!-- StackPanel内容 -->
+            <ListBox x:Name="myListBox" Width="150"/>
+
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Border Background="Black" BorderThickness="3" HorizontalAlignment="Center" 
+                    Height="340"  VerticalAlignment="Top" Width="620">
                 <Border.Effect>
                     <DropShadowEffect Color="#FFE4CC8D"/>
                 </Border.Effect>
@@ -23,13 +40,22 @@
                         <GradientStop Offset="0.5" Color="Gold"/>
                     </LinearGradientBrush>
                 </Border.BorderBrush>
-                <MediaElement Name="me"  LoadedBehavior="Manual"  SpeedRatio="1" Stretch="Fill" UnloadedBehavior="Stop" ScrubbingEnabled="True" Volume="{Binding ElementName=volumeSlider,Path=Value}" Balance="0.6" MouseLeftButtonDown="Me_MouseLeftButtonDown" MediaOpened="Me_MediaOpened" MediaEnded="Me_MediaEnded"  />
+                <MediaElement Name="me" LoadedBehavior="Manual"  
+                              SpeedRatio="1" 
+                              Stretch="Fill" 
+                              UnloadedBehavior="Stop" 
+                              ScrubbingEnabled="True" 
+                              Volume="{Binding ElementName=volumeSlider,Path=Value}" 
+                              Balance="0.6" MouseLeftButtonDown="Me_MouseLeftButtonDown" 
+                              MediaOpened="Me_MediaOpened" 
+                              MediaEnded="Me_MediaEnded"  />
             </Border>
             <StackPanel Margin="0,10,0,0" Orientation="Horizontal" HorizontalAlignment="Center">
-                <TextBlock Text="播放进度" Foreground="Gold" Margin="5"/>
-                <Slider x:Name="posSlider" Minimum="0"   Width="190" Value="{Binding ElementName=me,Path=Position}" IsMoveToPointEnabled="True"  PreviewMouseLeftButtonUp="PosSlider_PreviewMouseLeftButtonUp"   />
-                <TextBlock Text="音量" Foreground="Gold" Margin="20,0,0,0"/>
-                <Slider x:Name="volumeSlider" Margin="10,0" Minimum="0" Maximum="1" Value="0.5" Width="167" />
+                <TextBlock Text="进度" Foreground="Gray" Margin="5"/>
+                <Slider x:Name="posSlider" Minimum="0"   Width="340" Value="{Binding ElementName=me,Path=Position}" IsMoveToPointEnabled="True"  PreviewMouseLeftButtonUp="PosSlider_PreviewMouseLeftButtonUp"   />
+                <Label Name="lblTime" Width="70" Height="25" Content="00:04"></Label>
+                <TextBlock Text="音量" Foreground="Gray" Margin="20,0,0,0"/>
+                <Slider x:Name="volumeSlider" Margin="10,0" Minimum="0" Maximum="1" Value="0.5" Width="100" />
             </StackPanel>
 
             <StackPanel Orientation="Horizontal"  HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,7">
@@ -43,20 +69,30 @@
               />
                 <Button x:Name="forwardBtn" Content="快进"  Click="ForwardBtn_Click" 
               />
-                <Label Name="lblTime" Width="78" Height="30" Content="00:04"></Label>
+                
             </StackPanel>
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" >
-                <Button x:Name="openBtn1" Content="前定位"   Click="OpenBtn_Click" 
+                <Button x:Name="openBtn1" Content="前定位" Height="25"  Click="HeadLocation" 
               />
-                <Button x:Name="playBtn1" Content="后定位" Click="PlayBtn_Click" 
+                <Label x:Name="lblTime1" Width="70" Height="25" Content="00:00:00"/>
+                <Button x:Name="playBtn1" Content="后定位" Height="25" Click="BackLocation"
                 />
-
-                <Label x:Name="lblTime1" Width="78" Height="30" Content="00:01"/>
-                <Label x:Name="lblTime2" Width="78" Height="30" Content="00:02"/>
+                <Label x:Name="lblTime2" Width="70" Height="25" Content="00:00:00"/>
+                <Button x:Name="cut" Content="截取" Height="25" Click="CutVideo"
+ />
+                <Button Content="合并" Height="25" Click="Merge"/>
             </StackPanel>
-
+            <StackPanel>
+                <Button Content="截取目录" HorizontalAlignment="Right" Margin="0,1" Click="CutVideoPath" />
+                <Button Content="合并目录" HorizontalAlignment="Right" Margin="0,1" Click="MergePath"/>
+            </StackPanel>
+           
 
 
         </StackPanel>
+      
+
+
+
     </Grid>
 </Page>
