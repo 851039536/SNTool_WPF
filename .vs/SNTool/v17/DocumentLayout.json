@@ -7,34 +7,6 @@
       "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\video\\videoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\video\\videoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\video\\videoui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\video\\videoui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\video\\videoui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\video\\videoui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\win\\fileintegritychecker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\win\\fileintegritychecker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,30 +15,12 @@
       "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\win\\fileintegritychecker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ch190006\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\sntool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\sntool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\video\\VideoUI.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SNTool\\obj\\Debug\\net8.0-windows\\video\\VideoUI.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ch190006\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\Main.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SNTool\\obj\\Debug\\net8.0-windows\\Main.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\video\\Page1.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SNTool\\obj\\Debug\\net8.0-windows\\video\\Page1.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\Main.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SNTool\\obj\\Debug\\net8.0-windows\\Main.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|d:\\sw\\wpf\\sntool\\sntool\\chartgpt\\deepseek.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D625455-7102-475C-A837-B9E890AB167D}|SNTool\\SNTool.csproj|solutionrelative:sntool\\chartgpt\\deepseek.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -104,41 +58,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VideoUI.xaml.cs",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\video\\VideoUI.xaml.cs",
-              "RelativeDocumentMoniker": "SNTool\\video\\VideoUI.xaml.cs",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\video\\VideoUI.xaml.cs",
-              "RelativeToolTip": "SNTool\\video\\VideoUI.xaml.cs",
-              "ViewState": "AQIAAPkAAAAAAAAAAMBAwAUBAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:43:51.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VideoConfig.cs",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\video\\VideoConfig.cs",
-              "RelativeDocumentMoniker": "SNTool\\video\\VideoConfig.cs",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\video\\VideoConfig.cs",
-              "RelativeToolTip": "SNTool\\video\\VideoConfig.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:28:23.989Z",
+              "Title": "FileIntegrityChecker.xaml",
+              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\win\\FileIntegrityChecker.xaml",
+              "RelativeDocumentMoniker": "SNTool\\win\\FileIntegrityChecker.xaml",
+              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\win\\FileIntegrityChecker.xaml",
+              "RelativeToolTip": "SNTool\\win\\FileIntegrityChecker.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T01:43:22.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Main.xaml.cs",
               "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\Main.xaml.cs",
               "RelativeDocumentMoniker": "SNTool\\Main.xaml.cs",
               "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\Main.xaml.cs",
               "RelativeToolTip": "SNTool\\Main.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:30:26.49Z",
+              "WhenOpened": "2024-05-18T01:41:05.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\App.xaml",
+              "RelativeDocumentMoniker": "SNTool\\App.xaml",
+              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\App.xaml",
+              "RelativeToolTip": "SNTool\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T01:26:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deepseek.xaml.cs",
+              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\chartgpt\\Deepseek.xaml.cs",
+              "RelativeDocumentMoniker": "SNTool\\chartgpt\\Deepseek.xaml.cs",
+              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\chartgpt\\Deepseek.xaml.cs",
+              "RelativeToolTip": "SNTool\\chartgpt\\Deepseek.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T01:26:10.056Z",
               "EditorCaption": ""
             },
             {
@@ -150,168 +115,7 @@
               "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\Main.xaml",
               "RelativeToolTip": "SNTool\\Main.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T08:31:20.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FileIntegrityChecker.xaml.cs",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\win\\FileIntegrityChecker.xaml.cs",
-              "RelativeDocumentMoniker": "SNTool\\win\\FileIntegrityChecker.xaml.cs",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\win\\FileIntegrityChecker.xaml.cs",
-              "RelativeToolTip": "SNTool\\win\\FileIntegrityChecker.xaml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:14:30.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\App.xaml.cs",
-              "RelativeDocumentMoniker": "SNTool\\App.xaml.cs",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\App.xaml.cs",
-              "RelativeToolTip": "SNTool\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:10:43.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "SNTool\\AssemblyInfo.cs",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\AssemblyInfo.cs",
-              "RelativeToolTip": "SNTool\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:27:14.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\App.xaml",
-              "RelativeDocumentMoniker": "SNTool\\App.xaml",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\App.xaml",
-              "RelativeToolTip": "SNTool\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T10:31:50.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VideoUI.xaml",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\video\\VideoUI.xaml",
-              "RelativeDocumentMoniker": "SNTool\\video\\VideoUI.xaml",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\video\\VideoUI.xaml",
-              "RelativeToolTip": "SNTool\\video\\VideoUI.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T07:40:40.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FileIntegrityChecker.xaml",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\win\\FileIntegrityChecker.xaml",
-              "RelativeDocumentMoniker": "SNTool\\win\\FileIntegrityChecker.xaml",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\win\\FileIntegrityChecker.xaml",
-              "RelativeToolTip": "SNTool\\win\\FileIntegrityChecker.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T09:21:58.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "XamlReader.cs",
-              "DocumentMoniker": "C:\\Users\\ch190006\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
-              "ToolTip": "C:\\Users\\ch190006\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
-              "ViewState": "AQIAAGoBAAAAAAAAAAAMwIgBAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T10:24:39.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SNTool",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\SNTool.csproj",
-              "RelativeDocumentMoniker": "SNTool\\SNTool.csproj",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\SNTool.csproj",
-              "RelativeToolTip": "SNTool\\SNTool.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-15T08:26:10.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "VideoUI.g.i.cs",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\video\\VideoUI.g.i.cs",
-              "RelativeDocumentMoniker": "SNTool\\obj\\Debug\\net8.0-windows\\video\\VideoUI.g.i.cs",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\video\\VideoUI.g.i.cs",
-              "RelativeToolTip": "SNTool\\obj\\Debug\\net8.0-windows\\video\\VideoUI.g.i.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAcwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:38:00.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ResourcePart.cs",
-              "DocumentMoniker": "C:\\Users\\ch190006\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "ToolTip": "C:\\Users\\ch190006\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAMwCMAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:30:53.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Page1.g.i.cs",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\video\\Page1.g.i.cs",
-              "RelativeDocumentMoniker": "SNTool\\obj\\Debug\\net8.0-windows\\video\\Page1.g.i.cs",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\video\\Page1.g.i.cs",
-              "RelativeToolTip": "SNTool\\obj\\Debug\\net8.0-windows\\video\\Page1.g.i.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBPwDUAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:44:02.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Main.g.cs",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\Main.g.cs",
-              "RelativeDocumentMoniker": "SNTool\\obj\\Debug\\net8.0-windows\\Main.g.cs",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\Main.g.cs",
-              "RelativeToolTip": "SNTool\\obj\\Debug\\net8.0-windows\\Main.g.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAIA0wAsAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T09:42:49.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Main.g.i.cs",
-              "DocumentMoniker": "D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\Main.g.i.cs",
-              "RelativeDocumentMoniker": "SNTool\\obj\\Debug\\net8.0-windows\\Main.g.i.cs",
-              "ToolTip": "D:\\sw\\wpf\\SNTool\\SNTool\\obj\\Debug\\net8.0-windows\\Main.g.i.cs",
-              "RelativeToolTip": "SNTool\\obj\\Debug\\net8.0-windows\\Main.g.i.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAIA0wAsAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:44:48.766Z",
+              "WhenOpened": "2024-05-17T07:12:52.935Z",
               "EditorCaption": ""
             }
           ]

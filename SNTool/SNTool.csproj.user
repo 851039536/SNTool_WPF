@@ -7,6 +7,9 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="chartgpt\Deepseek.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="video\VideoUI.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -15,6 +18,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="chartgpt\Deepseek.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Main.xaml">
       <SubType>Designer</SubType>
     </Page>

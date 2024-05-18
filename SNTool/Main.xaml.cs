@@ -24,6 +24,9 @@ namespace SNTool
                 case "文件校验":
                     MainFrame.Source = new Uri("./win/FileIntegrityChecker.xaml", UriKind.Relative);
                     break;
+                case "Deepseek GPT":
+                    MainFrame.Source = new Uri("./chartgpt/Deepseek.xaml", UriKind.Relative);
+                    break;
                 // 添加更多菜单项的处理逻辑...
             }
         }

@@ -31,3 +31,9 @@ D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\MVideoCore.dll
 D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\MVideoCore.pdb
 D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\FFMpegCore.dll
 D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\Instances.dll
+D:\sw\wpf\SNTool\SNTool\obj\Debug\net8.0-windows\chartgpt\Deepseek.g.cs
+D:\sw\wpf\SNTool\SNTool\obj\Debug\net8.0-windows\chartgpt\Deepseek.baml
+D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\MChatGpt.dll
+D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\MChatGpt.pdb
+D:\sw\wpf\SNTool\SNTool\bin\Debug\net8.0-windows\Newtonsoft.Json.xml

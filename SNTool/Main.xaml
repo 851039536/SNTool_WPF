@@ -16,11 +16,11 @@
             <!-- 在这里添加你的菜单项 -->
             <Button Content="视频编辑" Margin="1" Width="120" Click="Button_Click"/>
             <Button Content="文件校验" Margin="1" Width="120" Click="Button_Click"/>
-            <Button Content="菜单项3" Margin="1" Width="120" Click="Button_Click"/>
+            <Button Content="Deepseek GPT" Margin="1" Width="120" Click="Button_Click"/>
             <!-- 更多菜单项... -->
         </StackPanel>
 
         <!-- 右侧内容区域 -->
-        <Frame Grid.Column="1" Margin="8" x:Name="MainFrame" Source="./video/VideoUI.xaml"/>
+        <Frame Grid.Column="1" Margin="8" x:Name="MainFrame" Source="./win/FileIntegrityChecker.xaml"/>
     </Grid>
 </Window>

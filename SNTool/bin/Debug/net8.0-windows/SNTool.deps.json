@@ -10,8 +10,10 @@
         "dependencies": {
           "FFMpegCore": "5.1.0",
           "HandyControl": "3.5.1",
+          "MChatGpt": "1.0.0.0",
           "MechTE_480_Merge": "6.9.12.0",
-          "MVideoCore": "1.0.0.0"
+          "MVideoCore": "1.0.0.0",
+          "Newtonsoft.Json": "13.0.0.0"
         },
         "runtime": {
           "SNTool.dll": {}
@@ -51,6 +53,14 @@
           "System.Text.Encodings.Web": "7.0.0"
         }
       },
+      "MChatGpt/1.0.0.0": {
+        "runtime": {
+          "MChatGpt.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "MechTE_480_Merge/6.9.12.0": {
         "runtime": {
           "MechTE_480_Merge.dll": {
@@ -64,6 +74,14 @@
           "MVideoCore.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
           }
         }
       }
@@ -110,12 +128,22 @@
       "path": "system.text.json/7.0.2",
       "hashPath": "system.text.json.7.0.2.nupkg.sha512"
     },
+    "MChatGpt/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "MechTE_480_Merge/6.9.12.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
     "MVideoCore/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
