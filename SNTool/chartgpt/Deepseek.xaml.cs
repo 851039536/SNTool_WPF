@@ -1,8 +1,8 @@
-﻿using System.Windows.Controls;
+﻿using MewTool.GPT;
+using Newtonsoft.Json.Linq;
+using System.Windows.Controls;
 using System.Windows.Documents;
 using System.Windows.Input;
-using MChatGpt;
-using Newtonsoft.Json.Linq;
 
 namespace SNTool.chartgpt
 {

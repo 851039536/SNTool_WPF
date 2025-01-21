@@ -15,17 +15,17 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="MChatGpt">
-      <HintPath>..\..\..\class_library\MechTE\MChatGpt\bin\Debug\MChatGpt.dll</HintPath>
+    <Reference Include="MewTool">
+      <HintPath>..\..\..\class_library\MechTE\MewTool\bin\Debug\MewTool.dll</HintPath>
     </Reference>
-    <Reference Include="MechTE_480_Merge">
-      <HintPath>..\..\..\class_library\MechTE\MechTE_480\bin\Debug\MechTE_480_Merge.dll</HintPath>
+    <Reference Include="MewTool.GPT">
+      <HintPath>..\..\..\class_library\MechTE\MewTool.GPT\bin\Debug\MewTool.GPT.dll</HintPath>
     </Reference>
-    <Reference Include="MVideo">
-      <HintPath>..\..\..\class_library\MechTE\MVideoCore\bin\Debug\net8.0\MVideoCore.dll</HintPath>
+    <Reference Include="MewTool.VideoCore">
+      <HintPath>..\..\..\class_library\MechTE\MewTool.VideoCore\bin\Debug\net8.0\MewTool.VideoCore.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\class_library\MechTE\MChatGpt\bin\Debug\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\..\class_library\MechTE\MewTool.GPT\bin\Debug\Newtonsoft.Json.dll</HintPath>
     </Reference>
   </ItemGroup>
 

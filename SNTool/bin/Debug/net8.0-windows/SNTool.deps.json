@@ -10,9 +10,9 @@
         "dependencies": {
           "FFMpegCore": "5.1.0",
           "HandyControl": "3.5.1",
-          "MChatGpt": "1.0.0.0",
-          "MechTE_480_Merge": "6.9.12.0",
-          "MVideoCore": "1.0.0.0",
+          "MewTool": "1.0.0.1",
+          "MewTool.GPT": "1.0.0.0",
+          "MewTool.VideoCore": "1.0.0.0",
           "Newtonsoft.Json": "13.0.0.0"
         },
         "runtime": {
@@ -53,25 +53,25 @@
           "System.Text.Encodings.Web": "7.0.0"
         }
       },
-      "MChatGpt/1.0.0.0": {
+      "MewTool/1.0.0.1": {
         "runtime": {
-          "MChatGpt.dll": {
+          "MewTool.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "MewTool.GPT/1.0.0.0": {
+        "runtime": {
+          "MewTool.GPT.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "MechTE_480_Merge/6.9.12.0": {
+      "MewTool.VideoCore/1.0.0.0": {
         "runtime": {
-          "MechTE_480_Merge.dll": {
-            "assemblyVersion": "6.9.12.0",
-            "fileVersion": "6.9.12.0"
-          }
-        }
-      },
-      "MVideoCore/1.0.0.0": {
-        "runtime": {
-          "MVideoCore.dll": {
+          "MewTool.VideoCore.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -128,17 +128,17 @@
       "path": "system.text.json/7.0.2",
       "hashPath": "system.text.json.7.0.2.nupkg.sha512"
     },
-    "MChatGpt/1.0.0.0": {
+    "MewTool/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "MechTE_480_Merge/6.9.12.0": {
+    "MewTool.GPT/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "MVideoCore/1.0.0.0": {
+    "MewTool.VideoCore/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

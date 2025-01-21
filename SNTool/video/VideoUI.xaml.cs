@@ -1,11 +1,11 @@
-﻿using System.IO;
+﻿using MewTool.FileCategory;
+using MewTool.FormCategory;
+using MewTool.VideoCore;
+using MewTool.WindowsCategory;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
-using MechTE_480.FileCategory;
-using MechTE_480.FormCategory;
 using Microsoft.Win32;
-using MVideoCore;
 
 namespace SNTool.video
 {
@@ -244,20 +244,20 @@ namespace SNTool.video
         private void CutVideoPath(object sender, RoutedEventArgs e)
         {
             string outputFilePath = @$"{cuPathVideo}\video\folder";
-            MFileUtil.OpenFile(outputFilePath);
+            MWindowsHelper.OpenFile(outputFilePath);
         }
 
         private void MergePath(object sender, RoutedEventArgs e)
         {
             string outputFilePath = @$"{cuPathVideo}\video\Merge";
-            MFileUtil.OpenFile(outputFilePath);
+            MWindowsHelper.OpenFile(outputFilePath);
         }
 
         private void Merge(object sender, RoutedEventArgs e)
         {
             try
             {
-                string[] inputFilePath = MFormUtil.ShowMultiFileDialog("测试").ToArray();
+                string[] inputFilePath = MFormHelper.ShowMultiFileDialog("测试").ToArray();
                 string outputFilePath = @$"{cuPathVideo}\video\Merge";
                 string ffmpegBinaryFolder = @$"{cuPathVideo}\ffmpeg\bin";
                 // 调用SplitVideo方法进行视频分割
@@ -274,10 +274,10 @@ namespace SNTool.video
         private void DelVideo(object sender, RoutedEventArgs e)
         {
             string outputFilePath = @$"{cuPathVideo}\video\folder";
-            bool idx = MFormUtil.MesBox("确认删除所以数据", "删除");
+            bool idx = MFormHelper.MesBox("确认删除所以数据", "删除");
             if (idx)
             {
-                MFileUtil.DeleteAllFilesInFolder(outputFilePath);
+                MFileHelper.DeleteAllFilesInFolder(outputFilePath);
                 GetFolder();
             }
         }

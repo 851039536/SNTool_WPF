@@ -1,6 +1,6 @@
-﻿using System.IO;
-using MechTE_480.FileCategory;
-using MechTE_480.util;
+﻿using MewTool.FileCategory;
+using MewTool.GeneralCategory;
+using System.IO;
 
 namespace SNTool.video
 {
@@ -31,7 +31,7 @@ namespace SNTool.video
         {
             // 读取文件
             string folderPath = $"{cuPathVideo}\\video\\folder";
-            string[] fullFileNames = MFileUtil.GetFileNames(folderPath);
+            string[] fullFileNames = MFileHelper.GetFileNames(folderPath);
 
             // 使用LINQ来提取文件名和后缀名
             string[] fileNamesAndExtensions = fullFileNames
